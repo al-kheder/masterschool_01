@@ -11,9 +11,3 @@ Tetrs
 
 Hello here is test for git pull
 
-Adadada
-Adada
-Ada
-Das
-Ada
-Ad
