@@ -25,7 +25,7 @@ Clone the repository (if applicable):
 
 bash
 Copy
-git clone https://github.com/al-kheder/note-organizer-api.git
+https://github.com/al-kheder/masterschool_01.git
 cd note-organizer-api
 Install dependencies:
 
